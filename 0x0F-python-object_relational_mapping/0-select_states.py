@@ -1,4 +1,4 @@
-```#!/usr/bin/python 3
+#!/usr/bin/python 3
 """The script lists all states from a database"""
 import  MySQLdb
 Import sys
@@ -18,4 +18,3 @@ for row in query_rows:
     print(row)
 cur.close()
 conn.close()
-```
