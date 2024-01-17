@@ -43,10 +43,10 @@ This repository contains programs written for the higher-level programming track
 0x15-javascript-web_jquery
 
 Author :
+i
+Olayiwola Yunus Abayomi<Yuntech1>
 
-Olayiwola Yunus Abayomi<yuntech1>
-
-Acknowledgements 🙏
+Acknowledgement 🙏
 
 All work contained in this project was completed as part of the curriculum for ALX Africa SE. ALX Afica is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit this link.
 
